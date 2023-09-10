@@ -118,6 +118,6 @@ class DeepLabV3plusT(nn.Module):
 
 if __name__ == "__main__":
     model = DeepLabV3plusT(num_classes=1)
-    model_base_path = r"../Model_save/deeplabv3+_model_params.pth"
-    model.load_state_dict(torch.load(model_base_path))
+    # model_base_path = r""
+    # model.load_state_dict(torch.load(model_base_path))
     summary(model, input_size=(3, 256, 256), device="cpu")
