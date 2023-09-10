@@ -183,8 +183,8 @@ if __name__ == "__main__":
     )
 
     model = AttentionDeeplabV3plus(num_classes=1)
-    par_path = r"预训练.pth"
-    model.load_state_dict(torch.load(par_path))
+    # par_path = r"预训练.pth"
+    # model.load_state_dict(torch.load(par_path))
 
     model_train(
         train_model=model,
