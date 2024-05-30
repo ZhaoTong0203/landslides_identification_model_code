@@ -13,3 +13,12 @@
     链接：https://pan.baidu.com/s/1qxlKveQD7a4DuA0jvIEQGw 
     提取码：chdl 
 
+If you find this repo useful for your research, please consider citing our paper:
+@article{赵通 2024 改进的DeepLabV3+模型用于震后高分遥感影像滑坡识别,
+title={改进的DeepLabV3+模型用于震后高分遥感影像滑坡识别},
+author={赵通 and 张双成 and 何晓宁 and 薛博维 and 查富康},
+journal={遥感学报},
+pages={1-12},
+year={2024},
+doi={10.11834/jrs.20243393},
+}
