@@ -14,11 +14,5 @@
     提取码：chdl 
 
 If you find this repo useful for your research, please consider citing our paper:
-@article{赵通 2024 改进的DeepLabV3+模型用于震后高分遥感影像滑坡识别,
-title={改进的DeepLabV3+模型用于震后高分遥感影像滑坡识别},
-author={赵通 and 张双成 and 何晓宁 and 薛博维 and 查富康},
-journal={遥感学报},
-pages={1-12},
-year={2024},
-doi={10.11834/jrs.20243393},
-}
+赵通，张双成，何晓宁，薛博维，查富康.2024.改进的DeepLabV3+模型用于震后高分遥感影像滑坡识别.遥感学报，28（9）： 2293-2305 DOI： 10.11834/jrs.20243393. 
+Zhao T，Zhang S C，He X N，Xue B W and Zha F K. 2024. Improved DeepLabV3+ model for landslide identification in high-resolution remote sensing images after earthquakes. National Remote Sensing Bulletin， 28（9）：2293-2305 DOI： 10.11834/jrs.20243393. 
